@@ -1,3 +1,10 @@
+<img src="home.png">
+
+# reactで色々
+- count機能
+- api機能
+- phpからhttp通信(Twitter)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
